@@ -12,3 +12,6 @@ Activate the environment (this should install the GRIB module)\
 To test that it works go to the *src* directory and run the script:\
 `cd src`\
 `julia --project=/path/to/this/project/ grib_example.jl`
+
+#### Disclaimer
+Errors may occur.. I am not yet experienced with julia
